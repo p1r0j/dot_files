@@ -1,5 +1,6 @@
 syntax on
-set clipboard=unnamed
+"set clipboard=unnamed " Uncomment for MacOS system clipboard support
+"set clipboard=unnamedplus " Uncomment for Linux system clipboard support
 set relativenumber
 set shiftwidth=4 smarttab
 set expandtab

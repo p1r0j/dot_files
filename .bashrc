@@ -3,4 +3,5 @@ PS1="\[\033[36m\]\u\[\033[00m\]@\[\033[35m\]\h\[\033[00m\]:\w \[\033[31m\]>\[\03
 
 EDITOR="vim"
 
-alias la="ls -la --color=always"
+alias ll="ls -lh --color=always"
+alias la="ls -lah --color=always"
